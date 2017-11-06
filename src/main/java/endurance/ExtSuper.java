@@ -17,7 +17,6 @@ public class ExtSuper extends Super {
     }
 
     public void addElement(final List arg){
-        BufferRe
         arg.add("addItem");
     }
 
